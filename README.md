@@ -22,9 +22,9 @@ The loan status prediction project aims to automate and streamline the loan appr
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MYoussef885/Loan_Status_Prediction.git`
+1. Clone the repository: `gh repo clone MYoussef885/Loan_Status_Prediction`
 2. Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
-3. Launch Google Colab: https://colab.research.google.com/?utm_source=scs-index
+3. Launch Google Colab: https://colab.research.google.com
 4. Open the `Loan_Status_Prediction.ipynb` file and run the notebook cells sequentially.
 
 ## Conclusion
